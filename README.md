@@ -18,13 +18,18 @@ This widget has 3 screens:
 	- Bank
 	- Armed / disarmed
 	- Telemetry
-![alt text](image-url)
+ 
+![alt text](screen-2026-08-08-163035.bmp)
    
 - Battery select screen
 	- Pops up when connecting model
 	- A Battery can be assigned to multiple models.
 	- Rotorflight Integration: Each battery is assigned a model-specific profile number (1–6) that corresponds directly to Rotorflight's battery profiles.
 	  Upon selection, this index is scaled to -1024 / +1024. This scaled value is written to an EdgeTX Global Variable (GV), which can be used in inputs or mixes, allowing Rotorflight to automatically sync and load the matching battery profile.
+   	- Enter the battery edit screen by pressing the edit button
+
+![alt text](screen-2026-08-08-163048.bmp)
+   
 - Battery edit screen
 	- Allows creating, editing, deleting batteries
 	- Input battery name
@@ -32,6 +37,8 @@ This widget has 3 screens:
 	- Input battery
 	- Allows assigning batteries to models
 	- For a new battery, the widget automatically assigns a model specific profile number so no duplicates are possible.
+
+![alt text](screen-2026-08-08-163056.bmp)
 - Post-flight screen
 	- Pops up when disconnecting model
 	- Gives summary of most important telemetry values
