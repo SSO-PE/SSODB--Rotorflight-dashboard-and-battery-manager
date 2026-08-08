@@ -18,6 +18,8 @@ This widget has 3 screens:
 	- Bank
 	- Armed / disarmed
 	- Telemetry
+![alt text](image-url)
+   
 - Battery select screen
 	- Pops up when connecting model
 	- A Battery can be assigned to multiple models.
