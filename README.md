@@ -5,7 +5,7 @@ This is a Battery manager / dashboard for EdgeTX to be used with Rotorflight tel
 
 ## == PREREQUISITES ==
 
-* **Radio OS:** EdgeTX v2.8 or newer with Touchscreen support (480x320 resolution , e.g., RadioMaster TX15 - no other resolution has been tested).
+* **Radio OS:** EdgeTX v2.8 or newer with Touchscreen support.
 * **Flight Controller:** Rotorflight 2.3+ with active telemetry enabled (CRSF/ELRS or S.Port).
 * **RFTOOLS lua needs to be installed and active on another screen of EdgeTX -- The model name is taken from this lua-script.
 
