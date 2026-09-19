@@ -7,7 +7,7 @@ land.
 
 <img width="480" height="320" alt="flight-screen" src="https://github.com/user-attachments/assets/acd493a2-b074-4ef8-ac8c-b9ec448bdc71" />
 
-> **Installation and setup: see [SSODB-Manual.pdf](SSODB-Manual.pdf).**
+> **Installation and setup: see [[SSODB-Manual.pdf](SSODB-Manual.pdf).](https://github.com/SSO-PE/SSODB--Rotorflight-dashboard-and-battery-manager/blob/main/SSODB/SSODB-Manual.pdf)**
 
 ---
 
@@ -133,4 +133,4 @@ from a computer.
 ## Documentation
 
 Full documentation, including installation, first-time setup, every widget
-setting and a troubleshooting section: **[SSODB-Manual.pdf](SSODB-Manual.pdf)**
+setting and a troubleshooting section: **[[SSODB-Manual.pdf](SSODB-Manual.pdf)](https://github.com/SSO-PE/SSODB--Rotorflight-dashboard-and-battery-manager/blob/main/SSODB/SSODB-Manual.pdf)**
